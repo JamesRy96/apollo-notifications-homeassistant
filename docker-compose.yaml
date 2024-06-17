@@ -4,6 +4,6 @@ services:
   app:
     build: .
     env_file:
-      - ./config/.env
+      - ./config/notify.config
     volumes:
       - ./config:/app/config
