@@ -32,7 +32,7 @@ python3 ./notify.py
 
 
 
-# Configureation
+# Configuration
 
 1. Create a "personal use script" app at https://old.reddit.com/prefs/apps/ make note of the client id/secret
 
@@ -62,4 +62,4 @@ The script current supports one Reddit account per instance. I'd like to expand 
 
 If you have any issues or comments feel free to open an issue, I'm happy to help where I can.
 
-Special thanks to m4rkw for their work on [apollo-notifications](https://github.com/m4rkw/apollo-notifications) that laid the groundwork and provided the inspiration for this project. 
+Special thanks to m4rkw for their work on [apollo-notifications](https://github.com/m4rkw/apollo-notifications) for the groundwork and provided the inspiration for this project. 

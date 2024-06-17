@@ -7,4 +7,3 @@ services:
       - ./config/.env
     volumes:
       - ./config:/app/config
-    network_mode: bridge
